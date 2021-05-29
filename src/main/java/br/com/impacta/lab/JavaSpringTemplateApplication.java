@@ -1,7 +1,7 @@
 package br.com.impacta.lab;
 
 import java.util.ArrayList;
-import br.com.impacta.models.*;
+
 
 public class JavaSpringTemplateApplication {
 
